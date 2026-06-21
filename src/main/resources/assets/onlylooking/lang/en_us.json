@@ -1,0 +1,13 @@
+{
+  "itemGroup.onlylooking": "Example Mod Tab",
+  "block.onlylooking.example_block": "Example Block",
+  "item.onlylooking.example_item": "Example Item",
+
+  "onlylooking.configuration.title": "OnlyLooking Configs",
+  "onlylooking.configuration.section.onlylooking.common.toml": "OnlyLooking Configs",
+  "onlylooking.configuration.section.onlylooking.common.toml.title": "OnlyLooking Configs",
+  "onlylooking.configuration.items": "Item List",
+  "onlylooking.configuration.logDirtBlock": "Log Dirt Block",
+  "onlylooking.configuration.magicNumberIntroduction": "Magic Number Text",
+  "onlylooking.configuration.magicNumber": "Magic Number"
+}
